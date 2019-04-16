@@ -115,6 +115,5 @@ dmypy.json
 
 
 # My file
-*.png
 *.pth
 .idea/
