@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 ############## To train images at 2048 x 1024 resolution after training 1024 x 512 resolution models #############
 ##### Using GPUs with 12G memory (not tested)
 # Using labels only
